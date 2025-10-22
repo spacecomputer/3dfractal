@@ -1,0 +1,20 @@
+{
+  "name": "3dfractal",
+  "version": "1.0.0",
+  "description": "A living 3D fractal that grows through community interaction",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+  },
+  "keywords": ["fractal", "3d", "webgl", "interactive", "community"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

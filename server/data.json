@@ -1,0 +1,11 @@
+{
+  "totalPets": 0,
+  "todayPets": 0,
+  "complexity": 4,
+  "age": 0,
+  "lastPetTime": null,
+  "createdAt": "2025-10-22T00:00:00.000Z",
+  "lastDayReset": "2025-10-22T00:00:00.000Z",
+  "petHistory": [],
+  "milestones": []
+}
